@@ -1,0 +1,1 @@
+return ((sin((argument0 + .75) * 2 * pi) + 1.0) / 2.0); // Return scaled sine
